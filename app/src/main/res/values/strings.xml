@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LayotsinAndroid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_linear_horizontal">LinearHorizontal</string>
+    <string name="title_activity_linear_vertical">LinearVertical</string>
+    <string name="title_activity_relayout_example">RelayoutExample</string>
+    <string name="title_activity_grid_view">GridView</string>
+    <string name="title_activity_table_layout">TableLayout</string>
+    <string name="title_activity_button_click">ButtonClick</string>
+    <string name="title_activity_frame__layout">Frame_Layout</string>
+</resources>
